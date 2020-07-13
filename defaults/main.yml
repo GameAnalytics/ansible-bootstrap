@@ -67,7 +67,7 @@ bootstrap__mandatory_packages:
 #
 # Base packages installed during bootstrap.
 bootstrap__base_packages:
-  - 'python-pip-whl'
+  - 'python-pip'
   - 'sudo'
   - 'lsb-release'
   - 'dbus'
